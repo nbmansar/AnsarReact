@@ -1,5 +1,5 @@
 import React from 'react'
-import PlantGrowth from '../PlantGrowth/PlantGrowth'
+import PlantGrowth from './PlantGrowth'
 
 function Home() {
   return (
